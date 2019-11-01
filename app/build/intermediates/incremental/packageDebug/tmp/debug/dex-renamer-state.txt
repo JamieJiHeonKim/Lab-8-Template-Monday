@@ -1,0 +1,4 @@
+#Fri Nov 01 12:53:26 MDT 2019
+base.0=C\:\\Users\\mashi\\Desktop\\cmput301\\lab8\\Lab-8-Template-Monday\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
